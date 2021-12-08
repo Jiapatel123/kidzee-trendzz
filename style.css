@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-color: #F48FB1;
+}
+
+h1 {
+    font-size: 55px;
+    font-family: monospace;
+}
+h2{
+    font-family: 'Allan';
+    font-size: 22px;
+}
+p{
+    font-family: 'Sofia';
+    font-size: 17px;
+}
+.line {
+    width: 170px;
+    height:6px;
+    background: linear-gradient(yellow 0%, white  100%);
+}
